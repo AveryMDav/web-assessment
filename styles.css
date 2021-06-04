@@ -36,3 +36,12 @@ input {
 img {
 	max-width: 300px;
 }
+
+.favs {
+	display: inline-block;
+	background-color:rgb(233, 216, 123);
+	margin-right: 2em;
+	display: inline;
+	font-size: 14px;
+}
+
